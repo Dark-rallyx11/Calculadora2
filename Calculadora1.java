@@ -8,6 +8,7 @@ package com.mycompany.calculadora;
  *
  * @author Alumnado
  */
+// añadir raiz cuadrada
 public class Calculadora1 {
 
     private int num1;
