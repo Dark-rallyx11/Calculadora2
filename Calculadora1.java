@@ -31,6 +31,7 @@ public class Calculadora1 {
     public int divide() {
         int result = num1/num2;
         return result;
+// anyadir potencias aqui
     }
     
 }
